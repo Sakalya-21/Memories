@@ -8,5 +8,6 @@ int main() {
     
     float result = ((float)(y2-y1))/(x2-x1);
     cout<<result;
+    cout<<"okay";
     return 0;
 }
